@@ -1,0 +1,15 @@
+[package]
+name = "custom_derive"
+version = "0.1.0"
+authors = ["ralpha <ralph.bisschops.dev@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[lib]
+proc-macro = true
+
+[dependencies]
+syn = "1.0.17"
+quote = "1.0.3"
+proc-macro2 = "1.0"
+serde = "1.0"

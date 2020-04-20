@@ -1,0 +1,13 @@
+<root>
+    <field1>abc</field1>
+    <field1>def</field1>
+
+    <field2>lmn</field2>
+    <field2>opq</field2>
+
+    <field1>ghi</field1>
+
+    <field2>again 2</field2>
+
+    <unknown_tag>this should be in the unknown tag</unknown_tag>
+</root>
